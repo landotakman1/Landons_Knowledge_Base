@@ -1,5 +1,6 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: "Video Games: PC/Console Game Knowledge Base"
+Introduction: A knowledge base covering some of my favorite PC/Console games over the years.
 ---
 ## The index page
 
