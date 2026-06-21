@@ -2,6 +2,15 @@
 title: "Video Games: PC/Console Game Knowledge Base"
 Introduction: A knowledge base covering some of my favorite PC/Console games over the years.
 ---
+## Main Categories
+This knowledge base is structured around the following primary categories:
+
+- [[genres/index|Game Genres]]
+- [[platforms/index|Platforms & Hardware]]
+- [[mechanics/index|Gameplay Mechanics & Systems]]
+- [[development/index|Game Development & Design]]
+- [[history/index|History & Evolution]]
+- [[community/index|Community, Modding & Culture]]
 ## The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
