@@ -13,6 +13,6 @@ Virtually every game in existence gives players a currency in some form to manag
 In *Stardew Valley*, gold, inventory space, and daylight left are critical resources that force the player to make difficult decisions. Poor design of resource management creates friction but elegant design creates the perfect mix of tension and skill mastery.
 
 ## Resource Relationships and Trade-offs
-Resources almost never exist in isolation in today's gaming age. Resources are tied to each other and with other mechanics in the game. Stocking up on one resource often costs another (time, risk, gold). This is where [[Resource Management Mechanics]] connects directly with [[Feedback and Rewards]]. The game must clearly communicate whether the player's resource decisions are acceptable... or less than ideal.
+Resources almost never exist in isolation in today's gaming age. Resources are tied to each other and with other mechanics in the game. Stocking up on one resource often costs another (time, risk, gold). This is where resource management connects directly with [[Feedback and Rewards]] as well as [[Player Agency and Choice]]. The game must clearly communicate whether the player's resource decisions are acceptable... or less than ideal. These trade-off decisions give players control over their own experience.
 
 Good resource systems make players feel that their decisions have meaning.
