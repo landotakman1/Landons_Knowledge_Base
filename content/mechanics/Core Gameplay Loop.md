@@ -11,4 +11,4 @@ A finely-tuned game loop creates a rhythm and chain of events that teach the pla
 ### Connection to Other Mechanics
 Though the core gameplay loop is the foundation of a game, it rarely exists in isolation. It is almost always accompanied by [[Progression Systems]] (repeating the loop results in growth or progression) and [[Resource Management Mechanics]] (actions within the loop either consume or produce resources). Understanding the core loop is the first step in discovering what makes some games addictive while others feel like a job.
 
-![Circular diagram showing the core gameplay loop: Player Input to Game Processes to Feedback & New Information to Player Decision and back to Player Input.](game-loop.jpg)
+![[assets/game-loop.jpg|Circular diagram showing the core gameplay loop: Player Input to Game Processes to Feedback & New Information to Player Decision and back to Player Input.]]
