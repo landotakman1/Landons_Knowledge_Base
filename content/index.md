@@ -1,7 +1,9 @@
 ---
 title: "Video Games: PC/Console Game Knowledge Base"
-Introduction: This knowledge base is an organized collection of resources about the development, styling, history, and culture surrounding PC and console video games.
+Introduction:
 ---
+**This knowledge base is an organized collection of resources about the development, styling, history, and culture surrounding PC and console video games.**
+
 ## Main Categories
 This knowledge base is structured around the following primary categories:
 
