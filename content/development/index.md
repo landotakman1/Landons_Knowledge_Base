@@ -1,7 +1,9 @@
 ---
 title: Game Development & Design
 ---
-Game design traits, tools (Unity, Blender, Unreal Engine, etc.), level design, AI, and development workflows.
+**This section explores how games are planned, developed, and perfected. Strong connections exist between design decisions and the [[mechanics/index|core mechanics]] that players experience.**
 
-## Related Categories
-A major focus of game development is the creation and refinement of core gameplay [[mechanics/index|mechanics]] and systems.
+## Pages in this section
+-[[Game Engines]]
+-[[Level Design Principles]]
+-[[Narrative Design & Worldbuilding]]
