@@ -1,7 +1,7 @@
 ---
 title: Game Genres
 ---
-**Genres are one of the primary ways games are classified by players and developers alike. This section examines major genre families, their more defining characteristics, and how they influence and shape player expectations and experiences. **
+**Genres are one of the primary ways games are classified by players and developers alike. This section examines major genre families, their more defining characteristics, and how they influence and shape player expectations and experiences.**
 
 ## Pages in this section
 - [[Action & Adventure Games]]
