@@ -1,7 +1,7 @@
 Action & Adventure encompasses one of the largest and most popular families in video games and for good reason. These games emphasize real-time movement, combat or platform-traversal challenges, and a unique sense of exploration and progression through seemingly real space.
 
 ## Defining Characteristics
-- Real-time player control of a character, vehicle, or other entity.
+- Real-time player control of a character, vehicle, or other entity
 - Emphasis on physical skill (timing, aim, platforming, combat)
 - A mixture of combat, exploration, and even some puzzle-solving
 - Often structured around levels, open worlds, or mission-based progression
