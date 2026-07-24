@@ -3,13 +3,13 @@ Horror and Survival games deliberately limit the player’s power in order to cr
 ## Defining Traits
 - Scarcity of resources (ammo, health, save points, light)  
 - Powerful or numerous threats that the player is not meant to dominate easily  
-- Atmosphere, sound design, and pacing used as primary tools  
+- [[development/Level Design Principles|Atmosphere]], sound design, and pacing used as primary tools  
 - High stakes for failure
 
 The best horror games carefully control the [[mechanics/Core Gameplay Loop|core gameplay loop]] so that exploration feels dangerous and every decision carries weight.
 
 ## Spectrum of the Genre
-- **Pure Horror** - Focus on fear and helplessness (*Outlast*, *Visage*, *Amnesia*)  
+- **Pure Horror** - Focus on fear and helplessness (*Outlast*, *Visage*, *[[history/The Rise of Indie Games|Amnesia]]*)  
 - **Survival Horror** - Limited combat and resource management (*Resident Evil*, *Silent Hill*)  
 - **Action-Horror** - More capable protagonists but still threatening worlds (*Dead Space*, *The Last of Us*)  
 - **Survival Crafting** - Emphasis on staying alive in hostile environments (*The Forest*, *Green Hell*, *Subnautica* in its more dangerous moments)

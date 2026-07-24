@@ -7,7 +7,7 @@ Strategy and Simulation games shift the focus from direct physical control of a 
 Both genres rely heavily on clear information, meaningful trade-offs, and systems that react intelligently to player decisions.
 
 ## Common Examples
-- Real-Time Strategy (RTS): (*StarCraft*, *Age of Empires*)  
+- Real-Time Strategy (RTS): (*[[community/Esports & Competitive Play|Starcraft]]*, *Age of Empires*)  
 - Turn-Based Strategy / 4X: (*Civilization*, *XCOM*)  
 - City Builders & Management Sims: (*Cities: Skylines*, *Frostpunk*)  
 - Life & Vehicle Sims: (*The Sims*, *Microsoft Flight Simulator*)

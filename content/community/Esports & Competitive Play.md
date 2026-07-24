@@ -1,4 +1,4 @@
-Esports refers to organized, competitive video gaming watched by an audience. While competitive play has existed since the arcade era, the modern esports industry grew rapidly with online connectivity, streaming, and professional team structures.
+Esports refers to organized, competitive video gaming watched by an audience. While competitive play has existed since the arcade era, the modern esports industry grew rapidly with online connectivity, [[Streaming, Content Creation & Fandom|streaming]], and professional team structures.
 
 ## Requirements for Strong Competitive Games
 - Deep skill ceiling so that mastery remains interesting

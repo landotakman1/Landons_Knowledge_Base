@@ -10,7 +10,7 @@ Many Action & Adventure games rely heavily on a strong [[Core Gameplay Loop|core
 
 ## Common Sub-Types
 - **Pure Action** - Fast combat and flashy spectacle (e.g. *Devil May Cry*, *DOOM*)
-- **Action-Adventure** - Balanced combat and exploration (*The Legend of Zelda*, *God of War*, *Uncharted*)
+- **Action-Adventure** - Balanced combat and exploration regularly seen in [[history/The 3D Revolution & Modern AAA|modern AAA games]] (*The Legend of Zelda*, *God of War*, *Uncharted*)
 - **Platformers** - Focus on precise movement through space (*Super Mario World*, *Jak and Daxter*)
 - **Stealth-Action** - Emphasizes avoidance and timing over direct confrontation (*Splinter Cell*, *Sly Cooper*)
 
@@ -18,4 +18,4 @@ Many Action & Adventure games rely heavily on a strong [[Core Gameplay Loop|core
 These games almost always feature clear [[mechanics/Feedback and Rewards|feedback and reward systems]] (hit reactions, experience, new abilities) and varying degrees of [[mechanics/Player Agency and Choice|player agency]]. Open-world Action-Adventure titles also make heavy use of [[mechanics/Resource Management Mechanics|resource management]] and [[mechanics/Progression Systems|progression systems]].
 
 ## Why the Genre Matters
-Action & Adventure games are often the entry point for new gamers because the core fantasy (moving through an interesting world and overcoming challenges) is easy to understand and invest in. At the same time, the best examples show exactly how well-designed mechanics can create truly memorable experiences.
+Action & Adventure games are often the entry point for new gamers because the core fantasy (moving through an [[development/Level Design Principles|interesting world]] and overcoming challenges) is easy to understand and invest in. At the same time, the best examples show exactly how well-designed mechanics can create truly memorable experiences.

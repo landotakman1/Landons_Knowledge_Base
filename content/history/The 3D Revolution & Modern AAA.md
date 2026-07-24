@@ -6,7 +6,7 @@ Titles such as *Super Mario 64*, *Tomb Raider*, *Final Fantasy VII*, and *Golden
 ## Rise of the AAA Model
 As production values, team sizes, and technological prowess grew, a new category of high-budget “AAA” games emerged. These projects feature:
 - Large teams and multi-year development cycles
-- Heavy investment in cinematic presentation and licensed technology
+- Heavy investment in cinematic presentation and [[development/Game Engines|licensed technology]]
 - Marketing budgets that often rival development costs
 - Increasing reliance on live-service elements, seasonal content, and post-launch support
 

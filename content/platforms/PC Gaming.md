@@ -2,8 +2,8 @@ PC gaming is defined by flexibility, high performance potential, and a culture o
 
 ## Key Characteristics
 - Wide range of hardware configurations (from low-end laptops to extreme enthusiast builds)  
-- Support for mouse and keyboard as primary input, plus various controller types and styles  
-- Easy modding and community content  
+- Support for mouse and keyboard as primary input, [[platforms/Controllers, Input Devices & Accessibility|plus various controller types and styles]]  
+- Easy [[community/Modding Culture|modding and community content]]  
 - Simultaneous release or earlier access to many games  
 - Backwards compatibility through software rather than hardware generations
 

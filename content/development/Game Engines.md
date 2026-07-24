@@ -3,7 +3,7 @@ A game engine is the foundational software framework that handles rendering, phy
 ## Major Engines in Use Today
 - **Unity** - Extremely popular for indie all the way to AAA projects; strong multi-platform support and large Asset Store
 - **Unreal Engine** - Industry standard for high-fidelity graphics and large teams with a powerful "Blueprints" visual scripting system
-- **Godot** – Fully open-source and lightweight; growing rapidly in the indie space with a fervent following
+- **Godot** – Fully open-source and lightweight; growing rapidly in the [[history/The Rise of Indie Games|indie]] space with a fervent following
 - **Proprietary engines** - Many large studios maintain their own game engines built tailor-made for their development process (Frostbite, Decima, etc.)
 
 ## Why Engines Matter to Design

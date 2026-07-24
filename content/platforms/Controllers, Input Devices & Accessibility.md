@@ -1,8 +1,8 @@
 How a player gives input to a game is fundamental to how the game feels. Controllers, keyboards, mice, touch screens, and specialized devices all shape both design possibilities and who can play.
 
 ## Common Input Methods
-- **Gamepad / Controller** - Standardized across modern consoles; excellent for movement and camera control  
-- **Mouse & Keyboard** - Highest precision for aiming and complex commands  
+- **Gamepad / Controller** - Standardized across [[platforms/Console Ecosystems|modern consoles]]; excellent for movement and camera control  
+- **[[platforms/PC Gaming|Mouse & Keyboard]]** - Highest precision for aiming and complex commands  
 - **Touch & Motion** - Common on mobile and some Nintendo hardware  
 - **Adaptive & Specialized Controllers** - Designed for accessibility or specific genres (racing wheels, fight sticks, one-handed controllers)
 

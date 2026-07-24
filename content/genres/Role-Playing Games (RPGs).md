@@ -2,7 +2,7 @@ Role-Playing Games place the player in a character (or party of characters) who 
 
 ## Core Pillars
 - Character statistics, skills, or abilities that improve over time  
-- Meaningful decision-making that affects the story or world  
+- Meaningful [[development/Narrative Design & Worldbuilding|decision making]] that affects the story or world  
 - Exploration of a large world or series of interconnected areas  
 - Combat systems that can range from turn-based to real-time
 

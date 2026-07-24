@@ -2,9 +2,9 @@ Independent (indie) games are created by individuals or small teams outside the 
 
 ## Enabling Factors
 - Digital distribution platforms (Steam, itch.io, consoles’ digital stores)
-- Affordable and powerful engines such as Unity and Godot
+- Affordable and powerful engines such as [[development/Game Engines|Unity and Godot]]
 - Crowdfunding and early access models
-- Social media and streaming as discovery channels
+- Social media and [[Streaming, Content Creation & Fandom|streaming]] as discovery channels
 
 ## Design Freedom
 Without the need to satisfy a large publisher’s risk calculations, indie developers can take bigger creative risks. Many influential mechanics, art styles, and narrative experiments of the last fifteen years originated in the indie space before being adopted (or imitated) by larger studios.
