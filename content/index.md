@@ -15,4 +15,6 @@ This knowledge base is structured around the following primary categories:
 
 Start with any category above and move through the pages according to your personal interest and curiosity.
 
+[[references]]
+
 <!-- Rebuild trigger -->
